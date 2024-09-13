@@ -1,0 +1,81 @@
+.box{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5px;
+    box-sizing: border-box;
+}
+.boy{
+    width: 200px;
+    height: 40px;
+    top: 104px;
+    left: 224px;
+    gap: 0px;
+    border-radius: 30px 30px 30px 30px;
+    background-color: red;
+    text-align: center;
+    padding: 10px;
+    box-sizing: border-box;
+    color: white;
+}
+body{
+    background-color: #343C56;
+}
+.img{
+    width: 450px;
+    height: 250px;
+    top: 222px;
+    left: 250px;
+}
+.im{
+    width: 450px;
+    height: 250px;
+    top: 222px;
+    left: 250px;
+    
+}
+.img1{
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+}
+.da{
+    width: 264px;
+    height: 118px;
+    top: 453px;
+    left: 588px;
+    border-radius: 40px 40px 40px 40px;
+    background-color: black;
+    margin: 0px 0px 0px 538px;
+    /* display: flex; */
+    box-sizing: border-box;
+    color: white;
+    text-align: center;
+    padding: 45px;
+    font-size: 24px;
+}
+.d2{
+   display: flex;
+   justify-content: space-evenly;
+}
+.d2{
+  
+}
+.d4{
+    background-color: green;
+    width: 400px;
+    height: 200px;
+    top: 612px;
+    left: 220px;
+    border-radius: 50px 50px 50px 50px;
+    border: 50px solid red;
+    
+}
+.d5{
+    background-color: green;
+    width: 400px;
+    height: 200px;
+    top: 612px;
+    left: 220px;
+    border-radius: 50px 50px 50px 50px;
+    border: 50px solid red;
+}
